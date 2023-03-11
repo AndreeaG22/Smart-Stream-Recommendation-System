@@ -37,4 +37,4 @@
 </ul>
 
 ## Project Requirements
-[PROIECT POO.txt](https://github.com/AndreeaG22/Smart-Stream-Recommendation-System/files/10948093/PROIECT.POO.txt)
+[Proiect POO - 2023.pdf](https://github.com/AndreeaG22/Smart-Stream-Recommendation-System/files/10948098/Proiect.POO.-.2023.1.pdf)
